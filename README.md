@@ -51,6 +51,7 @@ We'd greatly appreciate if you could:
 | [Design Gurus](https://www.designgurus.io/?aff=kJSIoU) | One-stop portal For tech interviews. By the creators of Grokking the System Design Interview | Thanksgiving Sale: 70% off everything, 90% off the All Courses bundle | Ends about Nov 27 | ✅ |
 | [Educative](https://www.educative.io/?aff=x23W) | Offers interactive text-based courses on coding interviews, system design, and software engineering | 60% off | - | ✅ |
 | [certificates.dev](https://certificates.dev/?utm_source=greatfrontend&utm_medium=github&utm_campaign=cert_bf2025_bf) | Get ready for your interview with a certification! Get certified in React, Angular, JavaScript, Nuxt or Vue.js | **BLACKFRIDAYSPECIAL** - up to 60% off (60% on Vue.js and Nuxt, 47% on React, Angular, JavaScript and Laravel) + free bonuses | Ends Dec 2 | ✅ |
+| [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | PM, AI engineer and data science interview playbooks | 30% off with code **BF30** | Ends Nov 30 | ✅ |
 
 ## Courses
 
