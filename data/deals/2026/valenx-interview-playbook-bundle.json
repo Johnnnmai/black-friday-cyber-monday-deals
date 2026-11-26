@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Valenx Interview Playbook Bundle",
+  "url": "https://valenx.org/go/bf-bundle?utm_source=greatfrontend&utm_medium=list&utm_campaign=bf30_202611",
+  "categories": [
+    "technical-interviews-preparation"
+  ],
+  "description": "Three interview prep playbooks in one bundle: PM/TPM, AI Engineer and Data Science",
+  "offer": "30% off with code **BF30**: $20.30, was $29. One-time purchase",
+  "couponCodes": [
+    "BF30"
+  ],
+  "validity": "Ends Nov 30",
+  "latest": true
+}
